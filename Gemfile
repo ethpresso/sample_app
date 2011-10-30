@@ -15,6 +15,8 @@ group :test do
 	gem 'rspec', '2.0.0.beta.18'
 end
 
+gem 'spork', '~> 0.9.0.rc'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
